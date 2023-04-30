@@ -29,3 +29,15 @@ button {
 button:hover {
 	background-color: #3e8e41;
 }
+.design{
+   color: #3e8e41; 
+   position: fixed;
+   bottom:0;
+   right: 0;
+   margin: 10px;
+
+}
+a{
+    color:black;
+    text-decoration: none;
+}
